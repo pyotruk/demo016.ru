@@ -1,0 +1,30 @@
+title: Product
+
+pages: false
+
+files:
+  sortable: true
+  fields:
+    caption:
+      label: Caption
+      type: textarea
+    sold:
+      label: Sold?
+      type: checkbox
+      text: Is the item sold?
+      width: 1/2
+
+options:
+  template: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+  vimeolink:
+    label: Vimeo id
+    type:  number
+    width: 1/2
+  text:
+    label: Text
+    type:  textarea

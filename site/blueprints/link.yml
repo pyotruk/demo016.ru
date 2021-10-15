@@ -1,0 +1,17 @@
+title: External link
+
+pages: false
+files: false
+
+options:
+  template: false
+  url: true
+  preview: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+  hyperlink:
+    label: link
+    type: text

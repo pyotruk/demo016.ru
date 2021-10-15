@@ -1,0 +1,17 @@
+title: Products
+
+pages: true
+  template: product
+preview: false
+
+files: false
+
+options:
+  template: false
+  url: false
+  status: false
+
+fields:
+  title:
+    label: Title
+    type:  text

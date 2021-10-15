@@ -1,0 +1,27 @@
+title: Site
+
+pages:
+  template:
+    - default
+    - link
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  author:
+    label: Author
+    type:  text
+
+  email:
+    label: Email
+    type:  text
+
+  description:
+    label: Description
+    type:  textarea
+
+  analytics:
+    label: Google Analytics
+    type:  textarea

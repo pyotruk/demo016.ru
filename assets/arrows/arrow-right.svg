@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="37px" viewBox="0 0 47 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-right</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M28.5256064,10.9175127 L0,10.9175127 L0,22.9175127 L28.5708894,22.9175127 L28.6058549,32.183357 L44.4358496,16.3533623 L28.4859307,0.403443393 L28.5256064,10.9175127 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arrow-right" transform="translate(1.000000, 2.000000)">
+            <g id="Combined-Shape">
+                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <path stroke="#FFFFFF" stroke-width="1" d="M28.0237161,10.4175127 L27.9813547,-0.808239336 L45.1429564,16.3533623 L28.1103893,33.3859293 L28.0727727,23.4175127 L-0.5,23.4175127 L-0.5,10.4175127 L28.0237161,10.4175127 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>
