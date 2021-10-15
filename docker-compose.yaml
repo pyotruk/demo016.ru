@@ -1,0 +1,12 @@
+version: '3.3'
+
+services:
+  demo016-ru:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    image: demo016.ru
+    ports:
+      - 80:80
+    volumes:
+      - ./nginx-logs:/var/log/nginx
